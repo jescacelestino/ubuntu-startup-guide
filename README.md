@@ -1,7 +1,7 @@
 # 🛸 &nbsp; Ubuntu startup guide 🛸
  
 ---
-## ✔ &nbsp; Aptitude   
+## ⚡ &nbsp; Aptitude   
 - What is aptitude command Ubuntu? [click here](http://manpages.ubuntu.com/manpages/bionic/man8/aptitude-curses.8.html#description) ☄️
 
 - Open Terminal (CTRL + ALT + T) 
@@ -10,7 +10,7 @@
 
     $ sudo apt-get install aptitude -y
 
-## ✔ &nbsp; Update
+## ⚡ &nbsp; Update
 
 - Open Terminal (CTRL + ALT + T) 
 
@@ -18,7 +18,7 @@
 
     $ sudo apt-get update -y
 
-## ✔ &nbsp; Upgrade
+## ⚡ &nbsp; Upgrade
 
 - Open Terminal (CTRL + ALT + T) 
 
@@ -27,7 +27,7 @@
     $ sudo apt-get upgrade -y
 
 
-## ✔ &nbsp; Rar Unrar
+## ⚡ &nbsp; Rar Unrar
 
 - Open Terminal (CTRL + ALT + T) 
 
@@ -38,14 +38,14 @@
 ---
 # ☠&nbsp; 💻 &nbsp;☕ &nbsp; ESSENTIALS FOR PROGRAMMERS ☕&nbsp; 💻 &nbsp;☠
 
-## ✔ &nbsp; JAVA 8 - 14
+## ⚡ &nbsp; JAVA 8 - 14
 - Open Terminal (CTRL + ALT + T) 
 
 `Type the command:`
 
     $ sudo add-apt-repository ppa:linuxuprising/java && sudo apt update && sudo apt install openjdk-8-jdk oracle-java14-installer -yV
     
-## ✔ &nbsp; Docker 🐋
+## ⚡ &nbsp; Docker 🐋
 - Open Terminal (CTRL + ALT + T) 
 
 `Type the command:`
@@ -59,3 +59,4 @@
     $ sudo curl -L https://raw.githubusercontent.com/docker/machine/v0.16.0/contrib/completion/bash/docker-machine.bash -o /etc/bash_completion.d/docker-machine
 
 
+Made with ❤️ &nbsp; by [Jéssica](https://www.instagram.com/jescacelestino/) ☄️
