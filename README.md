@@ -2,7 +2,7 @@
  
 ---
 ## ⚡ &nbsp; Aptitude   
-- What is aptitude command Ubuntu? [click here](http://manpages.ubuntu.com/manpages/bionic/man8/aptitude-curses.8.html#description) ☄️
+- What is aptitude command Ubuntu? [click here](http://manpages.ubuntu.com/manpages/bionic/man8/aptitude-curses.8.html#description)
 
 - Open Terminal (CTRL + ALT + T) 
 
@@ -36,16 +36,16 @@
     $ sudo apt-get install rar unrar -y
     
 ---
-# ☠&nbsp; 💻 &nbsp;☕ &nbsp; ESSENTIALS FOR PROGRAMMERS ☕&nbsp; 💻 &nbsp;☠
+# 🚀 &nbsp; ESSENTIALS FOR PROGRAMMERS ☕&nbsp; 🚀
 
-## ⚡ &nbsp; JAVA 8 - 14
+## ☕ &nbsp; JAVA 8 - 14
 - Open Terminal (CTRL + ALT + T) 
 
 `Type the command:`
 
     $ sudo add-apt-repository ppa:linuxuprising/java && sudo apt update && sudo apt install openjdk-8-jdk oracle-java14-installer -yV
     
-## ⚡ &nbsp; Docker 🐋
+## Docker 🐋
 - Open Terminal (CTRL + ALT + T) 
 
 `Type the command:`
