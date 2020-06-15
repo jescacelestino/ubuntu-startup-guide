@@ -1,6 +1,4 @@
-# Ubuntu-startup-guide-
- ---
-# 🛸 Ubuntu startup guide 🛸
+# Ubuntu startup guide 🛸
  
 ---
 ## ✔ Aptitude 
