@@ -1,4 +1,4 @@
-# 🛸 &nbsp; Ubuntu startup guide 🛸
+# 💡 &nbsp; Ubuntu startup guide 💡
  
 ---
 ## ⚡ &nbsp; Aptitude   
@@ -36,9 +36,9 @@
     $ sudo apt-get install rar unrar -y
     
 ---
-# 🚀 &nbsp; ESSENTIALS FOR PROGRAMMERS ☕&nbsp; 🚀
+# 🚀 &nbsp; ESSENTIALS FOR PROGRAMMERS &nbsp; 🚀
 
-## ☕ &nbsp; JAVA 8 - 14
+## JAVA 8 - 14 ☕ 
 - Open Terminal (CTRL + ALT + T) 
 
 `Type the command:`
