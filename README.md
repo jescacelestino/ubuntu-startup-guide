@@ -35,6 +35,11 @@
 
     $ sudo apt-get install rar unrar -y
 
+##  ✔ &nbsp; Google Chrome
+- Download: [click here](https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb) ☄️ 
+
+
+# ☠&nbsp; 💻 &nbsp;☕ &nbsp; ESSENTIALS FOR PROGRAMMERS ☕&nbsp; 💻 &nbsp;☠
 
 ## ✔ &nbsp; JAVA 8 - 14
 - Open Terminal (CTRL + ALT + T) 
@@ -43,5 +48,4 @@
 
     $ sudo add-apt-repository ppa:linuxuprising/java && sudo apt update && sudo apt install openjdk-8-jdk oracle-java14-installer -y
 
-##  ✔ &nbsp; Google Chrome
-- Download: [click here](https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb) ☄️ 
+
