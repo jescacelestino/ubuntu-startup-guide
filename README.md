@@ -36,7 +36,7 @@
     $ sudo apt-get install rar unrar -y
     
 ---
-# 🚀 &nbsp; ESSENTIALS FOR PROGRAMMERS &nbsp; 🚀
+# 🚀 &nbsp; ESSENTIALS FOR PROGRAMMERS 🚀
 
 ## JAVA 8 - 14 ☕ 
 - Open Terminal (CTRL + ALT + T) 
@@ -58,5 +58,5 @@
     $ sudo curl -L https://raw.githubusercontent.com/docker/compose/1.26.0/contrib/completion/bash/docker-compose -o /etc/bash_completion.d/docker-compose
     $ sudo curl -L https://raw.githubusercontent.com/docker/machine/v0.16.0/contrib/completion/bash/docker-machine.bash -o /etc/bash_completion.d/docker-machine
 
-
+---
 Made with ❤️ &nbsp; by [Jéssica](https://www.instagram.com/jescacelestino/) ☄️
