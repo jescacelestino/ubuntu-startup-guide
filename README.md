@@ -1,4 +1,4 @@
-# &nbsp; 🛸 Ubuntu startup guide 🛸
+# 🛸 &nbsp; Ubuntu startup guide 🛸
  
 ---
 ## ✔ &nbsp; Aptitude   
