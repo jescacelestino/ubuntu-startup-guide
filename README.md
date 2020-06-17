@@ -9,6 +9,15 @@
 `Type the command:`
 
     $ sudo apt-get install aptitude -y
+    
+## ⚡ &nbsp; Wine 🍷
+
+- Open Terminal (CTRL + ALT + T) 
+
+`Type the command:` 
+    
+    $ sudo apt-get install wine -y
+
 
 ## ⚡ &nbsp; Update
 
