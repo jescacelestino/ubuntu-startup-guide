@@ -52,7 +52,7 @@
 
 `Type the command:`
 
-    $ sudo add-apt-repository ppa:linuxuprising/java && sudo apt update && sudo apt install openjdk-8-jdk oracle-java14-installer -yV
+    $ sudo add-apt-repository ppa:linuxuprising/java && sudo apt update && sudo apt install openjdk-8-jdk oracle-java14-installer -y
     
 ## Docker 🐋
 - Open Terminal (CTRL + ALT + T) 
