@@ -44,6 +44,14 @@
 
     $ sudo apt-get install rar unrar -y
     
+## ⚡ &nbsp; Geany
+
+- Open Terminal (CTRL + ALT + T) 
+
+`Type the command:`
+
+    $ sudo apt-get install geany -y    
+    
 ---
 # 🚀 &nbsp; ESSENTIALS FOR PROGRAMMERS 🚀
 
