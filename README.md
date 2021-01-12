@@ -18,22 +18,13 @@
     
     $ sudo apt-get install wine -y
 
-
-## ⚡ &nbsp; Update
-
-- Open Terminal (CTRL + ALT + T) 
-
-`Type the command:`
-
-    $ sudo apt-get update -y
-
-## ⚡ &nbsp; Upgrade
+## ⚡ &nbsp; Update && Upgrade
 
 - Open Terminal (CTRL + ALT + T) 
 
 `Type the command:`
 
-    $ sudo apt-get upgrade -y
+    $  sudo apt-get update && sudo apt-get upgrade -y
 
 
 ## ⚡ &nbsp; Rar Unrar
@@ -55,7 +46,7 @@
 ---
 # 🚀 &nbsp; ESSENTIALS FOR PROGRAMMERS 🚀
 
-## JAVA 8 - 14 ☕ 
+## JAVA 8 - 15 ☕ 
 - Open Terminal (CTRL + ALT + T) 
 
 `Type the command:`
