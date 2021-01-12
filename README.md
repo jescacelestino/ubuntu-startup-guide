@@ -67,6 +67,8 @@
 
 `Type the command:`
 
+
+    $ sudo apt-get intall curl -y && curl https://get.docker.com | sh
     $ sudo apt-get install wget curl && sudo curl http://get.docker.com |sh -y
     $ sudo usermod -aG docker username
     $ sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
