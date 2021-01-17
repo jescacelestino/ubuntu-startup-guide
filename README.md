@@ -27,13 +27,13 @@
     $  sudo apt-get update && sudo apt-get upgrade -y
 
 
-## ⚡ &nbsp; Rar Unrar
+## ⚡ &nbsp; Rar Unrar 7zip
 
 - Open Terminal (CTRL + ALT + T) 
 
 `Type the command:`
 
-    $ sudo apt-get install rar unrar -y
+    $ sudo apt-get install rar unrar p7zip-full
     
 ## ⚡ &nbsp; Geany
 
