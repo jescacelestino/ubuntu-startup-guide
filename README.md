@@ -33,7 +33,7 @@
 
 `Type the command:`
 
-    $ sudo apt-get install rar unrar p7zip-full
+    $ sudo apt-get install rar unrar p7zip-full -y
     
 ## ⚡ &nbsp; Geany
 
