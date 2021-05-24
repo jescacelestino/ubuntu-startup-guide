@@ -48,6 +48,9 @@ https://askubuntu.com/questions/1036473/how-to-change-screenshot-application-to-
 
 ## Install Python 2.7
 https://tecadmin.net/install-python-2-7-on-ubuntu-and-linuxmint/
+
+## Install oh my zsh
+https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/
 ---
 # 🚀 &nbsp; ESSENTIALS FOR PROGRAMMERS 🚀
 
