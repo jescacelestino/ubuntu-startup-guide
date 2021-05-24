@@ -43,6 +43,8 @@
 
     $ sudo apt-get install geany -y    
     
+## Configurar a tecla "PrtSc" para usar o flameshot
+https://askubuntu.com/questions/1036473/how-to-change-screenshot-application-to-flameshot-on-ubuntu-18-04
 ---
 # 🚀 &nbsp; ESSENTIALS FOR PROGRAMMERS 🚀
 
