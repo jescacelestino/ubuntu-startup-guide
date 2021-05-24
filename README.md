@@ -45,6 +45,9 @@
     
 ## Configurar a tecla "PrtSc" para usar o flameshot
 https://askubuntu.com/questions/1036473/how-to-change-screenshot-application-to-flameshot-on-ubuntu-18-04
+
+## Install Python 2.7
+https://tecadmin.net/install-python-2-7-on-ubuntu-and-linuxmint/
 ---
 # 🚀 &nbsp; ESSENTIALS FOR PROGRAMMERS 🚀
 
